@@ -32,7 +32,7 @@ body{
 .login-container h2{
     text-align:center;
     margin-bottom:20px;
-    color:#22b175;
+    color:#33b175;
 }
 
 .input-group{
