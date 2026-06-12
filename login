@@ -103,7 +103,7 @@ body{
 
         <div class="extra-links">
             <p><a href="#">Forgot Password?</a></p>
-            <p>Don't have an account? <a href="#">Register</a></p>
+            <p>Don't have an account?<a href="#">Register</a></p>
         </div>
     </form>
 </div>
